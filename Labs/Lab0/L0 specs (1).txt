@@ -1,0 +1,5 @@
+Specs: https://teaching-on-testbeds.github.io/blog/hello-cloudlab
+
+Start by joining this project **DO NOT REQUEST A NEW PROJECT**: https://www.cloudlab.us/signup.php?pid=networklabs  
+
+No submission is needed for Lab 0

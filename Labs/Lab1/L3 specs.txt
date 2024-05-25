@@ -1,0 +1,4 @@
+Imp Instruction - Please download the questions from gradescope before starting the lab. If you do not stop at necessary checkpoints and note down answers, you may have to restart the entire lab.
+
+Specs: https://witestlab.poly.edu/blog/static-routing/
+Submission: Gradescope hhttps://www.gradescope.com/courses/750781/assignments/4221230/

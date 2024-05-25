@@ -1,0 +1,6 @@
+Specs: https://witestlab.poly.edu/blog/tcp-ip-protocol-stack/
+
+Submission Requirements (Gradescope): https://www.gradescope.com/courses/750781/assignments/4222222/submissions
+
+!!!Imp Instruction!! - Please download the questions (6 in total) from gradescope before starting the lab. If you do not stop at necessary checkpoints and note down answers, you may have to restart the entire lab.
+
