@@ -1,0 +1,1 @@
+Coursework from WPI course: CS 3516 - Computer Networking. This repository is intended to be reference material for myself. Please note that copying my work is academic dishonesty and if caught, would result in punishment by the school.
